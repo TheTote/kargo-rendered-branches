@@ -8,9 +8,9 @@ metadata:
 spec:
   vars:
   - name: repoURL
-    value: https://github.com/akuity/kargo-rendered-branches.git
+    value: https://github.com/thetote/kargo-rendered-branches.git
   - name: image
-    value: ghcr.io/akuity/guestbook
+    value: ghcr.io/thetote/guestbook
   - name: branch
     value: main
   - name: stage
